@@ -1,2 +1,2 @@
-# AffordableInterior
-Affordable Interior Html prototype
+# AffordableInteriorsPublished
+Affordable Interiors Published html site

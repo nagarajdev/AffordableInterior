@@ -19,6 +19,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -107,6 +108,7 @@
     <Content Include="medialibrary\images\gallery\gallery4.jpg" />
     <Content Include="medialibrary\images\gallery\gallery5.jpg" />
     <Content Include="medialibrary\images\gallery\gallery6.jpg" />
+    <Content Include="medialibrary\images\Homepage Banners\slide-1.jpg" />
     <Content Include="medialibrary\images\ico\apple-touch-icon-114-precomposed.png" />
     <Content Include="medialibrary\images\ico\apple-touch-icon-144-precomposed.png" />
     <Content Include="medialibrary\images\ico\apple-touch-icon-57-precomposed.png" />
